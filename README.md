@@ -14,7 +14,7 @@ Aqui eu apresento meu primeiro projeto em html. Uma playlist minha personalizada
 3- Playlist exclusiva no youtube <br><br>
 
 🖥️ **Tecnologias utilizadas:**<br><br>
-HTML
+HTML <br>
 CSS
 
 
